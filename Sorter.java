@@ -46,10 +46,7 @@ public class Sorter{
         }
       }
 
-      public static void sort(double[] Array){
-        selectionSort(Array);
-        
-      }
+      
 
 }
 
