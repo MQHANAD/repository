@@ -45,9 +45,17 @@ public class Sorter{
           }
         }
       }
+
       public static void sort(double[] array){
         selectionSort(array);
       }
+
+
+      public static void sort(int[] Array){
+        Insertionsort(Array);
+      }
+
+
       
 }
 
